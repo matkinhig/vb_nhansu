@@ -1,0 +1,360 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8000/nhansuvietbank
+Data file = E:\xampp\htdocs\nhansuvietbank\wp-content\plugins\nokri_framework/demo-data/Demo/content.xml
+Widget file = E:\xampp\htdocs\nhansuvietbank\wp-content\plugins\nokri_framework/demo-data/Demo/widgets.json
+Customizer file = E:\xampp\htdocs\nhansuvietbank\wp-content\plugins\nokri_framework/demo-data/Demo/customizer.dat
+Redux files:
+nokri -> E:\xampp\htdocs\nhansuvietbank\wp-content\plugins\nokri_framework/demo-data/Demo/theme-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Titlee": Invalid post type user_notifications
+[WARNING] Failed to import "Testing": Invalid post type user_notifications
+[WARNING] Failed to import "Test": Invalid post type user_notifications
+[WARNING] Failed to import "testjhhh": Invalid post type user_notifications
+[WARNING] Failed to import "test": Invalid post type user_notifications
+[WARNING] Failed to import "test": Invalid post type user_notifications
+[WARNING] Failed to import "Update released": Invalid post type user_notifications
+[WARNING] Failed to import "ios updated": Invalid post type user_notifications
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Titlee": Invalid post type user_notifications
+[WARNING] Failed to import "Testing": Invalid post type user_notifications
+[WARNING] Failed to import "Test": Invalid post type user_notifications
+[WARNING] Failed to import "testjhhh": Invalid post type user_notifications
+[WARNING] Failed to import "test": Invalid post type user_notifications
+[WARNING] Failed to import "test": Invalid post type user_notifications
+[WARNING] Failed to import "Update released": Invalid post type user_notifications
+[WARNING] Failed to import "ios updated": Invalid post type user_notifications
+
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing Redux settings---
+Redux settings import for: nokri finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
